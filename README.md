@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Rahul Jugran
 
-<!--
-**RahulJugran/RahulJugran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer   
+🚀 Building web applications  
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+- Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Weather App 
+
+## Connect With Me
+GitHub: https://github.com/RahulJugran
